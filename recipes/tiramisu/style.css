@@ -1,0 +1,59 @@
+/* 
+- change title font
+- add color and bg color to title
+- add bg color for image and image credits
+- change h2 headings font
+- bg color for descr and contents, ingredients list, steps 
+- add bg for recipe credits and homepage
+- increase font for homepage
+- add margin, border, padding for all */
+
+* {
+    margin: 0px;
+    background-color: lightyellow;
+}
+
+#title {
+    font-family: "Brush Script MT", "Times New Roman", Verdana;
+    color: brown;
+    background-color: lightyellow;
+    padding: 10px;
+}
+
+.image {
+    background-color: lightyellow;
+}
+
+.image.credits{
+    padding-bottom: 10px;
+}
+
+.heading {
+    font-family: "Times New Roman", Verdana;
+    text-align: center;
+    background-color: lightyellow;
+    color: brown;
+    padding: 5px;
+    border: 2px solid brown;
+}
+
+.descr,
+.foodlist,
+.stepslist {
+    padding: 25px;
+    padding-bottom: 50px;
+}
+
+.recipe {
+    padding: 10px;
+}
+
+.homepage {
+    padding: 10px;
+    border-top: 5px solid brown;
+    text-align: center;
+}
+
+
+
+

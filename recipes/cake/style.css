@@ -1,0 +1,49 @@
+* {
+    background-color: pink;
+    margin: 0px;
+}
+
+.image {
+    padding: 10px;
+}
+
+#title {
+    color: pink;
+    background-color: lightyellow;
+    padding: 10px;
+}
+
+.heading {
+    padding: 5px;
+    color: pink;
+    background-color: lightyellow;
+    text-align: center;
+}
+
+.descr,
+.foodlist,
+.stepslist {
+    padding: 25px;
+    padding-bottom: 50px;
+}
+
+.foodlist .one,
+.foodlist .two,
+.foodlist .three,
+.stepslist .one,
+.stepslist .two,
+.stepslist .three,
+.stepslist .four {
+    padding: 15px;
+}
+
+.recipe {
+    padding: 10px;
+}
+
+.homepage {
+    padding: 10px;
+    border-top: 10px solid lightyellow;
+    text-align: center;
+}
+

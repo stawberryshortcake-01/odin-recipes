@@ -1,0 +1,23 @@
+body {
+    font-family: "Times New Roman", Georgia, Garamond;
+    background-color: lightyellow;
+}
+
+#title {
+    color: white;
+    background-color: skyblue; 
+    padding: 10px;
+    /* border: 2px solid blue; */
+}
+
+.food {
+    background-color: pink;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid purple;
+}
+
+/* 
+- change font for body
+- add bg color for title
+- add bg color for each recipe */

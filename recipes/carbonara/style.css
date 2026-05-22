@@ -1,0 +1,27 @@
+* {
+    background-color: lightyellow;
+}
+
+#title,
+.heading {
+    color: lightyellow;
+    background-color: orange;
+}
+
+#title {
+    padding: 10px;
+}
+
+.heading {
+    text-align: center;
+}
+
+.recipe {
+    padding-top: 25px;
+}
+
+.homepage {
+    text-align: center;
+    border-top: 10px solid orange;
+    padding: 10px;
+}
